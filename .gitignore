@@ -1,2 +1,5 @@
 __pycache__
 fma_metadata/
+.DS_Store
+fma_small/
+*.zip
